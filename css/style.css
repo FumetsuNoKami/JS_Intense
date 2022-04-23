@@ -434,6 +434,7 @@ progress::-moz-progress-value {
 .program-line__descr.active {
     height: auto;
     overflow: auto;
+
 }
 
 .program-line__title {
